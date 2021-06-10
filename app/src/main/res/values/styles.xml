@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CalcGreyButton" parent="Widget.AppCompat.Button">
+        <item name="android:height">30pt</item>
+        <item name="android:width">30pt</item>
+        <item name="android:padding">2pt</item>
+        <item name="android:background">#d9d9d9</item>
+        <item name="android:textSize">7pt</item>
+        <item name="android:onClick"></item>
+    </style>
+    <style name="calcOrangeButton">
+        <item name="android:height">30pt</item>
+        <item name="android:width">30pt</item>
+        <item name="android:background">#ff751a</item>
+        <item name="android:textSize">7pt</item>
+    </style>
+</resources>
